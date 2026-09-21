@@ -1,0 +1,121 @@
+Time,Category,Item,Description,Price,Price Note,Signature,Veg Flag
+8 AM - 1 PM,Healthy Breakfast,Millet Idli,Steamed millet idlis with sambar and chutney.,139,,,veg
+8 AM - 1 PM,Healthy Breakfast,Mini Classic Idli,Soft mini idlis with sambar and chutney.,99,,,veg
+8 AM - 1 PM,Healthy Breakfast,Chana Power Chaat,"Chickpeas, vegetables, lemon and herbs.",129,,,veg
+8 AM - 1 PM,Healthy Breakfast,Protein Poha with Paneer & Soya,"Poha with paneer, roasted soya and vegetables.",149,,,veg
+8 AM - 1 PM,Healthy Breakfast,Paneer Stuffed Chilla,Two moong chillas filled with paneer.,189,,,veg
+8 AM - 1 PM,Healthy Breakfast,Fresh Sprout Power Bowl,"Fresh sprouts, vegetables and lemon-herb dressing.",169,,,veg
+ALL DAY,Healthy Bowls,Chickpea & Feta Salad,"Chickpeas, feta, fresh vegetables and light dressing.",199,,,veg
+ALL DAY,Healthy Bowls,Paneer Power Salad,"Paneer, fresh vegetables and light dressing.",219,,,veg
+8 AM - 1 PM,Protein Breakfast,Egg & Chicken Protein Breakfast,"3 eggs, grilled chicken, sautéed vegetables and toast.",249,,,non-veg
+8 AM - 1 PM,Protein Breakfast,Paneer Protein Wrap,Paneer tikka and vegetables in multigrain wrap.,199,,,veg
+8 AM - 1 PM,Protein Breakfast,Chicken Protein Wrap,Grilled chicken and lettuce in multigrain wrap.,229,,,non-veg
+8 AM - 1 PM,Protein Breakfast,Egg Chicken Power Wrap,"Egg, chicken tikka and vegetables in multigrain wrap.",249,,,non-veg
+ALL DAY,Protein Power Bowls,Overnight Oats Protein Bowl,"Oats, banana, chia seeds, peanut butter, mixed seeds and whey protein.",199,,,veg
+ALL DAY,Protein Power Bowls,Paneer Protein Bowl,"Paneer, rice, vegetables and light dressing.",249,,Yes,veg
+ALL DAY,Protein Power Bowls,Rajma Rice Power Bowl,"Rajma with rice, salad and a light house dressing.",229,,,veg
+ALL DAY,Protein Power Bowls,Chicken Protein Bowl,Grilled chicken with rice and salad.,299,,Yes,non-veg
+8 AM - 1 PM,Desi Favourites,Classic Chole Bhature,Spiced chickpea curry with fluffy bhature.,159,,,veg
+8 AM - 1 PM,Desi Favourites,Mumbai Pav Bhaji,Buttery pav with rich mixed-vegetable bhaji.,149,,,veg
+8 AM - 1 PM,Desi Favourites,Desi Aloo Power Paratha,Stuffed potato paratha with curd/butter.,149,,,veg
+8 AM - 1 PM,Desi Favourites,Paneer Power Paratha,Stuffed paneer paratha with chilled curd.,179,,,veg
+ALL DAY,Egg Corner,2 Egg Masala Omelette,"Two eggs with onion, tomato, chilli and herbs.",99,,,egg
+ALL DAY,Egg Corner,4 Egg White Omelette,Four egg whites with vegetables and herbs.,109,,,egg
+ALL DAY,Egg Corner,Masala Egg Bhurji,"Scrambled eggs with onion, tomato and herbs.",129,,,egg
+ALL DAY,Protein Power Bowls,Paneer Power Bowl,"Paneer, rice, vegetables and light dressing.",249,,Yes,veg
+ALL DAY,Protein Power Bowls,Rajma Protein Bowl,"Rajma, rice, fresh salad and a light house dressing.",249,,,veg
+ALL DAY,Protein Power Bowls,Grilled Chicken Power Bowl,Grilled chicken with rice and salad.,299,,Yes,non-veg
+ALL DAY,Protein Shakes,Chocolate Whey Shake,Chocolate whey blended into a protein shake.,249,,,veg
+ALL DAY,Protein Shakes,Cold Coffee Whey Shake,Cold coffee blended with whey protein.,269,,Yes,veg
+ALL DAY,Protein Shakes,Peanut Butter Banana Protein Shake,"Banana, peanut butter and whey protein.",279,,,veg
+ALL DAY,Smoothies,Berry Smoothie,Mixed berry smoothie.,199,,,veg
+ALL DAY,Smoothies,Green Glow Smoothie,Green fruit-and-vegetable smoothie.,189,,,veg
+ALL DAY,Healthy Drinks,Chia Lemon Refresher,Lemon refresher with chia seeds.,149,,,veg
+ALL DAY,Healthy Drinks,Cucumber Mint Fresh Cooler,"Cucumber, mint and lemon cooler.",139,,,veg
+ALL DAY,Healthy Drinks,Lemon Mint Fresh Cooler,"Fresh lemon, mint and chilled water.",129,,,veg
+1 PM - CLOSING,Soup(Veg),Veg Manchow Soup,Spicy vegetable soup with noodles and herbs.,149,,,veg
+1 PM - CLOSING,Soup(Veg),Veg Sweet Corn Soup,Comforting sweet corn soup with vegetables.,149,,,veg
+1 PM - CLOSING,Soup(Non - Veg),Chicken Manchow Soup,Spicy chicken soup with vegetables and noodles.,179,,,non-veg
+1 PM - CLOSING,Soup(Non - Veg),Chicken Thukpa Soup,Tibetan-style chicken noodle soup with vegetables and warming spices.,179,,,non-veg
+1 PM - CLOSING,Veg Starters,Crispy Corn,Crispy corn tossed with chilli and herbs.,179,,,veg
+1 PM - CLOSING,Veg Starters,Crispy Chilli Baby Corn,Crispy baby corn in sweet-spicy chilli glaze.,199,,,veg
+1 PM - CLOSING,Veg Starters,Chilli Paneer,"Paneer with onion, capsicum and chilli sauce.",229,,,veg
+1 PM - CLOSING,Veg Starters,Paneer Tikka - 8 Pc,Smoky tandoori paneer tikka.,269,,Yes,veg
+1 PM - CLOSING,Veg Starters,Malai Paneer Tikka - 8 Pc,Creamy mildly spiced paneer tikka.,289,,,veg
+1 PM - CLOSING,Veg Starters,Hariyali Paneer Tikka,"Paneer marinated with mint, coriander and green herbs, roasted in the tandoor.",279,,,veg
+1 PM - CLOSING,Veg Starters,Veg Seekh Kebab,Minced vegetables and aromatic spices shaped on skewers and grilled.,229,,,veg
+1 PM - CLOSING,Veg Starters,Dahi Ke Kebab,Crisp kebabs with a creamy hung-curd centre and mild spices.,249,,,veg
+1 PM - CLOSING,Veg Starters,Cheese-Stuffed Mushroom,Mushroom caps stuffed with seasoned cheese and grilled.,279,,,veg
+1 PM - CLOSING,Veg Starters,Chilli Mushroom Dry,"Crispy mushrooms tossed with onion, capsicum and chilli sauce.",229,,,veg
+1 PM - CLOSING,Non-Veg Starters,Chilli Chicken Dry,"Crispy chicken with onion, capsicum and chilli.",269,,,non-veg
+1 PM - CLOSING,Non-Veg Starters,Chicken Lollipop,Six crispy chicken lollipops served with house dip.,299,,,non-veg
+1 PM - CLOSING,Non-Veg Starters,Chicken Potato Kebab,Crisp chicken and potato kebabs seasoned with herbs and spices.,279,,,non-veg
+1 PM - CLOSING,Non-Veg Starters,Fish Fingers,Crispy fish fingers with house dip.,329,,,non-veg
+ALL DAY,Crispy Chicken,LovBites Chicken Bucket,Crispy chicken assortment with house dips.,499,,,non-veg
+ALL DAY,Crispy Chicken,Chicken Popcorn,Bite-sized crispy chicken with dip.,229,,,non-veg
+ALL DAY,Crispy Chicken,Peri Peri Wings,Crispy wings tossed in peri-peri seasoning.,279,,,veg
+ALL DAY,Crispy Chicken,Korean Crispy Chicken,Crispy chicken glazed with sweet-spicy Korean-style sauce.,299,,Yes,non-veg
+1 PM - CLOSING,Indo-Chinese,Veg Spring Roll,"Crispy rolls filled with seasoned vegetables, served with chilli dip.",179,,,veg
+1 PM - CLOSING,Indo-Chinese,Veg Manchurian,Vegetable dumplings tossed in a tangy Indo-Chinese sauce.,199,,,veg
+1 PM - CLOSING,Indo-Chinese,Veg Fried Rice,Wok-tossed rice with vegetables.,179,,,veg
+1 PM - CLOSING,Indo-Chinese,Sautéed Vegetables,"Seasonal vegetables lightly sautéed with garlic, herbs and seasoning.",199,,,veg
+1 PM - CLOSING,Indo-Chinese,Egg Fried Rice,Wok-tossed rice with egg and vegetables.,199,,,egg
+1 PM - CLOSING,Indo-Chinese,Chicken Fried Rice,Wok-tossed rice with chicken and vegetables.,229,,,non-veg
+1 PM - CLOSING,Indo-Chinese,Veg Hakka Noodles,Wok-tossed noodles with vegetables.,189,,,veg
+1 PM - CLOSING,Indo-Chinese,Chicken Hakka Noodles,Wok-tossed noodles with chicken and vegetables.,229,,,non-veg
+1 PM - CLOSING,Indo-Chinese,Chilli Chicken + Fried Rice Combo,Dry chilli chicken paired with fried rice.,399,,,non-veg
+1 PM - CLOSING,Kebab & Tandoor,Chicken Tikka - 8 Pc,Smoky boneless chicken tikka.,329,,Yes,non-veg
+1 PM - CLOSING,Kebab & Tandoor,Chicken Malai Tikka - 8 Pc,Creamy tender boneless chicken tikka.,349,,,non-veg
+1 PM - CLOSING,Kebab & Tandoor,Murgh Pahadi Kebab,"Chicken marinated with mint, coriander, yoghurt and spices, grilled in the tandoor.",339,,,non-veg
+1 PM - CLOSING,Kebab & Tandoor,Murgh Kali Mirch Kebab,Creamy black-pepper chicken kebabs roasted in the tandoor.,349,,,non-veg
+1 PM - CLOSING,Kebab & Tandoor,Chicken Leg Kebab,Spiced roasted chicken leg kebab.,289,,,non-veg
+1 PM - CLOSING,Kebab & Tandoor,Badshahi Tangri Kebab,Chicken drumsticks marinated in rich spices and roasted in the tandoor.,349,,,non-veg
+1 PM - CLOSING,Kebab & Tandoor,Murgh Seekh Kebab,"Minced chicken skewers with herbs and spices, char-grilled.",329,,,non-veg
+1 PM - CLOSING,Kebab & Tandoor,Tandoori Chicken - Half,Half chicken roasted in tandoor.,399,,,non-veg
+1 PM - CLOSING,Kebab & Tandoor,Tandoori Chicken - Full,Full chicken roasted in tandoor.,699,,,non-veg
+1 PM - CLOSING,Kebab & Tandoor,Tandoori Fish Tikka,Tandoori fish pieces with herbs and spices.,349,,,non-veg
+1 PM - CLOSING,Sizzlers,Garden Veg Sizzler,"Paneer, vegetables, rice and fries served sizzling.",429,,,veg
+1 PM - CLOSING,Sizzlers,Smoky Chicken Sizzler,"Grilled chicken, vegetables, rice and fries.",499,,,non-veg
+1 PM - CLOSING,Veg Main Course,Yellow Dal Tadka,Yellow dal tempered with Indian spices.,159,,,veg
+1 PM - CLOSING,Veg Main Course,Dal Makhani Signature,Slow-cooked black dal with butter and cream.,229,,Yes,veg
+1 PM - CLOSING,Veg Main Course,Garden Mix Veg,Seasonal vegetables in light Indian masala.,199,,,veg
+1 PM - CLOSING,Veg Main Course,Kadhai Paneer Signature,"Paneer, capsicum and onion in kadhai masala.",249,,Yes,veg
+1 PM - CLOSING,Veg Main Course,Paneer Patiala,"Paneer cooked in a rich, mildly spiced onion-tomato gravy.",259,,,veg
+1 PM - CLOSING,Veg Main Course,Shahi Paneer,"Paneer in a rich, mildly sweet cashew-and-cream gravy.",259,,,veg
+1 PM - CLOSING,Veg Main Course,Mushroom Masala,Mushroom in rich onion-tomato masala.,229,,,veg
+1 PM - CLOSING,Veg Main Course,Veg Kofta,"Vegetable koftas simmered in a smooth, mildly spiced gravy.",229,,,veg
+1 PM - CLOSING,Non-Veg Main Course,Chicken Dehati,Home-style chicken curry with aromatic spices.,299,,,non-veg
+1 PM - CLOSING,Non-Veg Main Course,Kadhai Chicken,"Chicken with capsicum, onion and kadhai masala.",329,,,non-veg
+1 PM - CLOSING,Non-Veg Main Course,Butter Chicken,Tender chicken in creamy makhani gravy.,329,,Yes,non-veg
+1 PM - CLOSING,Non-Veg Main Course,Chicken Rara,Chicken cooked in a robust onion-tomato gravy with minced chicken and spices.,349,,,non-veg
+1 PM - CLOSING,Non-Veg Main Course,Chicken Bhuna,"Chicken slow-cooked in a thick, intensely spiced bhuna masala.",349,,,non-veg
+1 PM - CLOSING,Non-Veg Main Course,Slow-Cooked Mutton Curry,Slow-cooked mutton curry with Indian spices.,429,,Yes,non-veg
+1 PM - CLOSING,Non-Veg Main Course,Mutton Bhuna,Tender mutton slow-cooked in a thick roasted-spice gravy.,449,,,non-veg
+1 PM - CLOSING,Non-Veg Main Course,Egg Curry,Boiled eggs in homestyle onion-tomato gravy.,199,,,egg
+1 PM - CLOSING,Breads,Tandoori Roti,Clay-oven roasted whole-wheat roti.,35,,,veg
+1 PM - CLOSING,Breads,Butter Tandoori Roti,Tandoori roti finished with butter.,45,,,veg
+1 PM - CLOSING,Breads,Classic Naan,Soft tandoori naan.,55,,,veg
+1 PM - CLOSING,Breads,Butter Naan,Soft naan brushed with butter.,65,,,veg
+1 PM - CLOSING,Breads,Garlic Butter Naan,"Garlic, coriander and butter naan.",85,,,veg
+1 PM - CLOSING,Breads,Cheese Naan,Soft tandoori naan filled with melted cheese.,99,,,veg
+1 PM - CLOSING,Breads,Cheese Garlic Naan,Garlic naan stuffed with cheese and finished with butter.,119,,,veg
+1 PM - CLOSING,Breads,Stuffed Kulcha,Tandoori kulcha stuffed with seasoned potato and herbs.,99,,,veg
+1 PM - CLOSING,Breads,Lachha Paratha,Flaky layered tandoori paratha.,79,,,veg
+1 PM - CLOSING,Rice & Biryani,Steamed Basmati Rice,Steamed basmati rice.,129,,,veg
+1 PM - CLOSING,Rice & Biryani,Jeera Rice,Basmati rice tempered with cumin.,149,,,veg
+1 PM - CLOSING,Rice & Biryani,Veg Dum Biryani,Aromatic vegetable dum biryani with raita.,249,,,veg
+1 PM - CLOSING,Rice & Biryani,Chicken Dum Biryani Signature,Signature chicken dum biryani with raita.,329,,Yes,non-veg
+1 PM - CLOSING,Rice & Biryani,Mutton Dum Biryani,Slow-cooked mutton dum biryani.,429,,,non-veg
+1 PM - CLOSING,Salad & Papad,Fresh Garden Salad,"Cucumber, onion, tomato and lemon.",79,,,veg
+1 PM - CLOSING,Salad & Papad,Masala Papad,"Papad topped with onion, tomato and masala.",79,,,veg
+1 PM - CLOSING,Salad & Papad,Boondi Raita,Chilled seasoned curd with boondi.,79,,,veg
+1 PM - CLOSING,Salad & Papad,Plain Curd,Fresh chilled curd.,69,,,veg
+ALL DAY,Beverage,Packaged Drinking Water,Sealed packaged drinking water.,,As per MRP,,veg
+ALL DAY,Beverage,Chilled Soft Drink,Chilled packaged soft drink; flavour as available.,60,,,veg
+ALL DAY,Beverage,Fresh Lime Spark,"Fresh lemon, soda and a light touch of sweetness.",99,,,veg
+ALL DAY,Beverage,Masala Tea,Freshly brewed milk tea with aromatic Indian spices.,49,,,veg
+ALL DAY,Beverage,Green Tea,Light and refreshing green tea.,69,,,veg
+ALL DAY,Beverage,Black Coffee,Freshly brewed black coffee.,79,,,veg
+ALL DAY,Beverage,Cold Coffee,"Chilled creamy coffee, lightly sweetened.",129,,,veg
+ALL DAY,Add-On,Extra Egg Boost,Add one egg to your meal.,35,,,egg
+ALL DAY,Add-On,Extra Whey Scoop,One extra scoop of whey protein.,129,,,veg
